@@ -17,6 +17,7 @@ let isLoggedIn = false
 // null => standalone value
 // undefined =>
 
+//object 
 console.log(typeof "Masyud")
 console.log(typeof undefined) //null
 console.log(typeof null)//object
