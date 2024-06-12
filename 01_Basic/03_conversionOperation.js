@@ -29,5 +29,17 @@ let booleanIsLoggedIn=Boolean(isLoggedIn)
 let a=55
 
 let stringInNumber= String(a)
-console.log(stringInNumber)
-console.log(typeof stringInNumber)
+// console.log(stringInNumber)
+// console.log(typeof stringInNumber)
+
+/*******************Operations******************/
+
+let str1="assalamualikum"
+let str2=" everyone"
+
+let str3=str1+str2
+console.log(str3)
+
+console.log(2**3)//2 power 3
+
+console.log(10 + 9 + "2" )
