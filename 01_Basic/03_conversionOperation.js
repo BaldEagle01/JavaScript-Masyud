@@ -43,3 +43,5 @@ console.log(str3)
 console.log(2**3)//2 power 3
 
 console.log(10 + 9 + "2" )
+
+console.log(true)
